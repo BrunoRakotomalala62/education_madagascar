@@ -1,0 +1,10 @@
+nohup: ignoring input
+INFO:     Started server process [5779]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     10.166.134.1:48512 - "GET /recherche?matiere=philosophie&serie=A&session=2011 HTTP/1.1" 200 OK
+INFO:     10.166.134.1:48528 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     10.166.134.1:55532 - "GET /recherche?matiere=philosophie&serie=A&session=2011 HTTP/1.1" 200 OK
+INFO:     10.166.134.1:55534 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     10.166.134.1:36074 - "GET /recherche?matiere=philosophie&serie=A HTTP/1.1" 200 OK
