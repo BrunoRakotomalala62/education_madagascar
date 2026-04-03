@@ -736,6 +736,46 @@
     "type": "sujet"
   },
   {
+    "titre": "Philosophie série CD 2022 énoncé",
+    "session": "2022",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=47935",
+    "matiere": "Philosophie",
+    "serie": "D",
+    "type": "sujet"
+  },
+  {
+    "titre": "Philosophie série CD 2021 énoncé",
+    "session": "2021",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=46011",
+    "matiere": "Philosophie",
+    "serie": "D",
+    "type": "sujet"
+  },
+  {
+    "titre": "Philosophie série CD 2020 énoncé",
+    "session": "2020",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=45404",
+    "matiere": "Philosophie",
+    "serie": "D",
+    "type": "sujet"
+  },
+  {
+    "titre": "Philosophie série C-D 2018 - énoncé",
+    "session": "2018",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=40838",
+    "matiere": "Philosophie",
+    "serie": "D",
+    "type": "sujet"
+  },
+  {
+    "titre": "Enoncé Philosophie série CD 2001",
+    "session": "2001",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/page/view.php?id=6173",
+    "matiere": "Philosophie",
+    "serie": "D",
+    "type": "sujet"
+  },
+  {
     "titre": "Philosophie série CD 2023 énoncéFichier",
     "session": "2023",
     "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=57584",
@@ -744,9 +784,41 @@
     "type": "sujet"
   },
   {
+    "titre": "Philosophie série CD 2022 énoncé",
+    "session": "2022",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=47935",
+    "matiere": "Philosophie",
+    "serie": "C",
+    "type": "sujet"
+  },
+  {
+    "titre": "Philosophie série CD 2021 énoncé",
+    "session": "2021",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=46011",
+    "matiere": "Philosophie",
+    "serie": "C",
+    "type": "sujet"
+  },
+  {
+    "titre": "Philosophie série CD 2020 énoncé",
+    "session": "2020",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=45404",
+    "matiere": "Philosophie",
+    "serie": "C",
+    "type": "sujet"
+  },
+  {
     "titre": "Philosophie série CD 2019-énoncéFichier",
     "session": "2019",
     "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=57602",
+    "matiere": "Philosophie",
+    "serie": "C",
+    "type": "sujet"
+  },
+  {
+    "titre": "Philosophie série C-D 2018 - énoncé",
+    "session": "2018",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/resource/view.php?id=40838",
     "matiere": "Philosophie",
     "serie": "C",
     "type": "sujet"
@@ -859,6 +931,14 @@
     "titre": "Enoncé Philosophie série CD 2002",
     "session": "2002",
     "url_pdf": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663511326494/KVrLlCjlvKipCWdn.pdf",
+    "matiere": "Philosophie",
+    "serie": "C",
+    "type": "sujet"
+  },
+  {
+    "titre": "Enoncé Philosophie série CD 2001",
+    "session": "2001",
+    "url_pdf": "http://mediatheque.accesmad.org/educmad/mod/page/view.php?id=6173",
     "matiere": "Philosophie",
     "serie": "C",
     "type": "sujet"
