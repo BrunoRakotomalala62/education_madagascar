@@ -1,0 +1,49 @@
+{
+  "Annales bacc A - C - D": {
+    "category_id": 32,
+    "subcategories": {
+      "Sciences": {
+        "category_id": 89,
+        "courses": {
+          "Série A - Mathématiques": 817,
+          "Série A - Sciences de la Vie et de la Terre": 818,
+          "Série A - Sciences Physiques": 819,
+          "Série C - Mathématiques": 820,
+          "Série C - Sciences de la Vie et de la Terre": 821,
+          "Série C - Sciences Physiques": 822,
+          "Série D - Mathématiques": 823,
+          "Série D - Sciences de la Vie et de la Terre": 824,
+          "Série D - Sciences Physiques": 825
+        }
+      },
+      "Autres matières": {
+        "category_id": 90,
+        "courses": {
+          "Anglais": 130,
+          "Français": 128,
+          "Histoire - Géographie": 129,
+          "Malagasy": 132,
+          "Philosophie": 131,
+          "Allemand": 133,
+          "Espagnol": 134,
+          "Education Physique et Sportive": 135,
+          "Sciences Economiques et Sociales": 136
+        }
+      }
+    }
+  },
+  "Annales bacc L - S - OSE": {
+    "category_id": 1050,
+    "courses": {
+      "Série L-SVT": 1051,
+      "Série OSE-SVT": 1052,
+      "Série S-SVT": 1053,
+      "Série L- Mathématiques": 1054,
+      "Série L-Sciences Physiques": 1055,
+      "Série OSE - Mathématiques": 1056,
+      "Série OSE - Sciences Physiques": 1057,
+      "Série S - Mathématiques": 1058,
+      "Série S - Sciences Physiques": 1059
+    }
+  }
+}
